@@ -4,6 +4,12 @@
 ### Overview
 This Python script reads configuration parameters from a file, performs some calculations based on the input data, and outputs the results to separate text files.
 
+### Run this command before running the script
+**install configparse**
+```
+pip install configparser
+```
+
 ### Dependencies
 - Python 3.x
 - Required Python modules:
