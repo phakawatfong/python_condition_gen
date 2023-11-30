@@ -22,7 +22,7 @@ val_interval=list()
 print("date_list_len",len(date_list))
 print("num_list_len",len(num_list))
 
-where_string=""
+# where_string=""
 
 sum_num=0
 i=1
